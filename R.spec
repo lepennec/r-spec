@@ -147,11 +147,11 @@
 %endif
 
 Name: R
-Version: 3.6.3
+Version: 4.0.0
 Release: 1%{?dist}
 Summary: A language for data analysis and graphics
 URL: http://www.r-project.org
-Source0: https://cran.r-project.org/src/base/R-3/R-%{version}.tar.gz
+Source0: https://cran.r-project.org/src/base/R-4/R-%{version}.tar.gz
 %if %{texi2any}
 # If we have texi2any 5.1+, we can generate the docs on the fly.
 # If not, we're building for a very old target (RHEL 6 or older)
