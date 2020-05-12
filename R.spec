@@ -954,6 +954,7 @@ R CMD javareconf \
 %lang(fr) %{_libdir}/R/library/class/po/fr/
 %lang(ko) %{_libdir}/R/library/class/po/ko/
 %lang(pl) %{_libdir}/R/library/class/po/pl/
+%lang(it) %{_libdir}/R/library/class/po/it/
 %{_libdir}/R/library/class/R/
 # cluster
 %dir %{_libdir}/R/library/cluster/
